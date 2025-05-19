@@ -28,7 +28,7 @@ The dashboard provides insights into:
 - Which product categories contribute most to overall revenue?
 - Which products are sold most and least frequently? Which generate the highest revenue?
 
-## **KEY INSIGHTS**
+## **Key Insights**
 
 **1. Sales Overview**
     
