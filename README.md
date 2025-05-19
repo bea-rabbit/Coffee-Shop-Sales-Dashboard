@@ -32,37 +32,37 @@ The dashboard provides insights into:
 
 **1. Sales Overview**
     
-    In the first 6 months of 2023, total revenue from coffee shop locations in New York reached approximately **$699K**, with **214K units sold**. **Brewed Chai Tea** was the best-selling product, with **26,250 units sold**. This product contributed a significant protion to the overall sales, indicating high customer preference.
+In the first 6 months of 2023, total revenue from coffee shop locations in New York reached approximately **$699K**, with **214K units sold**. **Brewed Chai Tea** was the best-selling product, with **26,250 units sold**. This product contributed a significant protion to the overall sales, indicating high customer preference.
     
 **2. Product Categories**
     
-    **Coffee** and **Tea** were the two core product categories, accounting for the majority of total sales:
-    
-    - **Coffee** is the largest contributor to revenue, accounting for 89K units sold, **$269.95K** in revenue—over 40% of total sales. This highlights the popularity and importance of coffee products for Maven Roasters, reinforcing the idea that coffee is the cornerstone of their business.
-    - **Tea** contributes 70K units sold, bringing in **$196.41K**, making it the second most popular category. This indicates a strong consumer demand for tea, suggesting that the product offerings in this category are well-received by customers.
-    - Other products such as **Bakery** and **Drinking Chocolate** also contributed notably to sales, with 23K and 17K units sold, respectively.
+**Coffee** and **Tea** were the two core product categories, accounting for the majority of total sales:
+
+- **Coffee** is the largest contributor to revenue, accounting for 89K units sold, **$269.95K** in revenue—over 40% of total sales. This highlights the popularity and importance of coffee products for Maven Roasters, reinforcing the idea that coffee is the cornerstone of their business.
+- **Tea** contributes 70K units sold, bringing in **$196.41K**, making it the second most popular category. This indicates a strong consumer demand for tea, suggesting that the product offerings in this category are well-received by customers.
+- Other products such as **Bakery** and **Drinking Chocolate** also contributed notably to sales, with 23K and 17K units sold, respectively.
 **3. Sales by Store Location**
     
-    All three store locations had relatively balanced revenues, with no significant difference between them:
-    
-    - **Hell’s Kitchen**: Contributed 33.84% of total revenue
-    - **Lower Manhattan**: Accounted for 32.92%
-    - **Astoria**: Contributed 33.23%
+All three store locations had relatively balanced revenues, with no significant difference between them:
+
+- **Hell’s Kitchen**: Contributed 33.84% of total revenue
+- **Lower Manhattan**: Accounted for 32.92%
+- **Astoria**: Contributed 33.23%
 **4. Sales by Month**
     
-    The monthly sales revenue shows a general upward trend from January to July 2023. This indicates positive business growth and increasing customer engagement over the months.
-    
-    - **January to March**: Revenue ranged from **$76K to $99K**, indicating stable consumption but no sharp growth.
-    - **April to June**: Revenue increased significantly each month, with **$157K in May** and **$166K in June**. These were the highest revenue months in the first half of the year, showing a strong rise. This upward trend may be attributed to seasonal factors, shifts in consumer behavior, or promotional campaigns conducted during this time.
+The monthly sales revenue shows a general upward trend from January to July 2023. This indicates positive business growth and increasing customer engagement over the months.
+
+- **January to March**: Revenue ranged from **$76K to $99K**, indicating stable consumption but no sharp growth.
+- **April to June**: Revenue increased significantly each month, with **$157K in May** and **$166K in June**. These were the highest revenue months in the first half of the year, showing a strong rise. This upward trend may be attributed to seasonal factors, shifts in consumer behavior, or promotional campaigns conducted during this time.
 **5. Sales by Days of the Week**
-    - **Weekdays (Monday to Friday)**: Revenue remained relatively stable between **$99K and $102K**. **Monday** and **Friday** had the highest figures, with $102K and $101K respectively, suggesting increased customer traffic at the beginning and end of the workweek.
-    - **Weekends (Saturday and Sunday)**: Revenue slightly decreased to around **$97K**.This could be due to customers engaging in different activities over the weekend or the presence of other competing business.
+- **Weekdays (Monday to Friday)**: Revenue remained relatively stable between **$99K and $102K**. **Monday** and **Friday** had the highest figures, with $102K and $101K respectively, suggesting increased customer traffic at the beginning and end of the workweek.
+- **Weekends (Saturday and Sunday)**: Revenue slightly decreased to around **$97K**.This could be due to customers engaging in different activities over the weekend or the presence of other competing business.
 **6. Sales by Hours of the Day**
     
-    There was a clear fluctuation in revenue across different time slots:
-    
-    - **Peak Hours**: Revenue peaked between **8 AM and 10 AM**, when customers typically buy coffee and breakfast before starting their day.
-    - **Gradual Decline**: After 10 AM, revenue dropped significantly and after 12 PM, revenue continued to decline steadily until closing, indicating that coffee consumption is concentrated more in the morning than in the afternoon or evening.
+There was a clear fluctuation in revenue across different time slots:
+
+- **Peak Hours**: Revenue peaked between **8 AM and 10 AM**, when customers typically buy coffee and breakfast before starting their day.
+- **Gradual Decline**: After 10 AM, revenue dropped significantly and after 12 PM, revenue continued to decline steadily until closing, indicating that coffee consumption is concentrated more in the morning than in the afternoon or evening.
 
 ## Recommendations:
 
